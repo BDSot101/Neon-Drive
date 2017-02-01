@@ -61,6 +61,7 @@
     <Compile Include="clsPickups.cs" />
     <Compile Include="clsPlayer.cs" />
     <Compile Include="clsPlayerBullet.cs" />
+    <Compile Include="clsPlayerMyBullet.cs" />
     <Compile Include="clsScroll.cs" />
     <Compile Include="clsSound.cs" />
     <Compile Include="clsStars.cs" />

@@ -1,33 +1,30 @@
-﻿//   - Blaster Master Class -
-// Purpose:      Player's bullets
-// Rev:          1.0
-// Last updated: 22/03/10
-
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Drawing;
 using System.Drawing.Imaging;
 
 namespace BlasterMaster
 {
-    public class clsPlayerBullet : clsCommon
+    class clsPlayerMyBullet : clsPlayerBullet
     {
-
         // Obj refs and instances
         private System.Drawing.Bitmap bullet;
         private ImageAttributes ImagingAtt = new ImageAttributes();
 
-        public clsPlayerBullet(int x, int y): base(x, y, 12, 32)
+        public clsPlayerMyBullet(int x, int y): base(x, y)
         {
             //------------------------------------------------------------------------------------------------------------------
             // Purpose: Class constructor  
             //------------------------------------------------------------------------------------------------------------------
 
             // Load resource image(s) & remove background and thu a sprite is born 
-            bullet = BlasterMaster.Properties.Resources.playerBullet;
+            bullet = BlasterMaster.Properties.Resources.;
             bullet.MakeTransparent(Color.White);
         }
 
-        public virtual void moveBullets(Graphics Destination)
+        public override void moveBullets(Graphics Destination)
         {
             //------------------------------------------------------------------------------------------------------------------
             // Purpose: Method to move the player's bullets by 16 pixels every frame  
