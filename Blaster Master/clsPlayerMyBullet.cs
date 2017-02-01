@@ -20,7 +20,7 @@ namespace BlasterMaster
             //------------------------------------------------------------------------------------------------------------------
 
             // Load resource image(s) & remove background and thu a sprite is born 
-            bullet = BlasterMaster.Properties.Resources.;
+            bullet = BlasterMaster.Properties.Resources;
             bullet.MakeTransparent(Color.White);
         }
 
