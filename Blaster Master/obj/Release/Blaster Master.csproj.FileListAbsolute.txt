@@ -14,3 +14,5 @@ C:\Users\bdsot679\Documents\Visual Studio 2015\Projects\Blaster Master C#\Blaste
 C:\Users\bdsot679\Documents\Visual Studio 2015\Projects\Blaster Master C#\Blaster Master\obj\Release\Blaster Master.csproj.GenerateResource.Cache
 C:\Users\bdsot679\Documents\Visual Studio 2015\Projects\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.exe
 C:\Users\bdsot679\Documents\Visual Studio 2015\Projects\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.pdb
+C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.exe
+C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.pdb
