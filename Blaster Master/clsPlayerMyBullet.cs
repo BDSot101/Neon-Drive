@@ -12,8 +12,9 @@ namespace BlasterMaster
         // Obj refs and instances
         private System.Drawing.Bitmap bullet;
         private ImageAttributes ImagingAtt = new ImageAttributes();
+        private int m_position;
 
-        public clsPlayerMyBullet(int x, int y): base(x, y)
+        public clsPlayerMyBullet(int x, int y, int i): base(x, y)
         {
             //------------------------------------------------------------------------------------------------------------------
             // Purpose: Class constructor  
@@ -22,6 +23,7 @@ namespace BlasterMaster
             // Load resource image(s) & remove background and thu a sprite is born 
             bullet = BlasterMaster.Properties.Resources.playerMyBullet;
             bullet.MakeTransparent(Color.White);
+            m_position = i;
         }
 
         public override void moveBullets(Graphics Destination)
@@ -32,6 +34,31 @@ namespace BlasterMaster
 
             // Scroll bullets
             base.setY(base.getY() - 15);
+            if (m_position == 2)
+            {
+                base.setX(base.getX() - 3);
+            }
+            else
+            {
+                if (m_position == 3)
+                {
+                    base.setX(base.getX() + 3);
+                }
+                else
+                {
+                    if (m_position == 4)
+                    {
+                        base.setX(base.getX() - 5);
+                    }
+                    else
+                    {
+                        if (m_position == 5)
+                        {
+                            base.setX(base.getX() + 5);
+                        }
+                    }
+                }
+            }
 
             // Sync collision rect
             base.setRectX(base.getX() + 2);
