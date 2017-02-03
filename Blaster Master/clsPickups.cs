@@ -29,7 +29,7 @@ namespace BlasterMaster
             switch (pickupType)
             {
                 case 0:
-                    pickup = BlasterMaster.Properties.Resources.pickupA;
+                    pickup = BlasterMaster.Properties.Resources.pickupA2;
                     break;
                 case 1:
                     pickup = BlasterMaster.Properties.Resources.pickupB;
