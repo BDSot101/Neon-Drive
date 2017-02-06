@@ -1,7 +1,7 @@
 ﻿//   - Blaster Master Class -
 // Purpose:      Player pickup items
-// Rev:          1.0
-// Last updated: 22/03/10
+// Rev:          1.1
+// Last updated: 02/06/17
 
 using System;
 using System.Drawing;
