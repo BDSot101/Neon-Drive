@@ -46,7 +46,8 @@ namespace BlasterMaster
             //:: Load resource image(s) & remove background and thu a sprite is born ::
 
             // Player images
-            player[0] = BlasterMaster.Properties.Resources.playerA;
+            player[0] = BlasterMaster.Properties.Resources.playerBack2Fut;
+            //player[0] = BlasterMaster.Properties.Resources.playerA;
             player[1] = BlasterMaster.Properties.Resources.playerB;
 
             // Explosion images
