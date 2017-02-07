@@ -214,6 +214,9 @@
   <data name="playerB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\playerB.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="playerBack2Fut" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playerBack2Fut.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="playerBullet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\playerBullet.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
