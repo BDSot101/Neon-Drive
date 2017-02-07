@@ -48,7 +48,8 @@ namespace BlasterMaster
             // Player images
             player[0] = BlasterMaster.Properties.Resources.playerBack2Fut;
             //player[0] = BlasterMaster.Properties.Resources.playerA;
-            player[1] = BlasterMaster.Properties.Resources.playerB;
+            player[1] = BlasterMaster.Properties.Resources.playerBack2FutB;
+            //player[1] = BlasterMaster.Properties.Resources.playerB;
 
             // Explosion images
             explosion[0] = BlasterMaster.Properties.Resources.explosion5;
