@@ -2374,11 +2374,11 @@ namespace BlasterMaster
 
             // Load resource images and remove backgrounds and thus a sprite is born
             background[0] = BlasterMaster.Properties.Resources.background;
-            background[1] = BlasterMaster.Properties.Resources.backgroundTop1;
-            background[2] = BlasterMaster.Properties.Resources.backgroundTop1;
-            background[3] = BlasterMaster.Properties.Resources.backgroundTop3;
-            background[4] = BlasterMaster.Properties.Resources.backgroundTop4;
-            background[5] = BlasterMaster.Properties.Resources.backgroundTop5;
+            background[1] = BlasterMaster.Properties.Resources.background;
+            background[2] = BlasterMaster.Properties.Resources.background;
+            background[3] = BlasterMaster.Properties.Resources.background;
+            background[4] = BlasterMaster.Properties.Resources.background;
+            background[5] = BlasterMaster.Properties.Resources.background;
 
             gameTitle = BlasterMaster.Properties.Resources.neondrivetitle;
             keyInstructions = BlasterMaster.Properties.Resources.keys;
