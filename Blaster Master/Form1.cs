@@ -2380,10 +2380,10 @@ namespace BlasterMaster
             background[4] = BlasterMaster.Properties.Resources.backgroundTop4;
             background[5] = BlasterMaster.Properties.Resources.backgroundTop5;
 
-            gameTitle = BlasterMaster.Properties.Resources.title;
+            gameTitle = BlasterMaster.Properties.Resources.neondrivetitle;
             keyInstructions = BlasterMaster.Properties.Resources.keys;
             star = BlasterMaster.Properties.Resources.starA;
-            gameTitle.MakeTransparent(Color.Black);
+            gameTitle.MakeTransparent(Color.White);
             star.MakeTransparent(Color.Black);
             keyInstructions.MakeTransparent(Color.Red);
 
