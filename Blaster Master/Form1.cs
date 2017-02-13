@@ -2408,49 +2408,49 @@ namespace BlasterMaster
                 switch (i)
                 {
                     case 0:
-                        j = 168; // Starting y-axis
+                        j = 198; // Starting y-axis
                         e = 188; // Ending y-axis ...
                         c = 2;   // Incrementation weight
                         break;
 
                     case 1:
-                        j = 188;
+                        j = 198;
                         e = 228;
                         c = 4;
                         break;
 
                     case 2:
-                        j = 228;
+                        j = 268;
                         e = 288;
                         c = 6;
                         break;
 
                     case 3:
-                        j = 288;
+                        j = 308;
                         e = 368;
                         c = (i + 1) * 2;
                         break;
 
                     case 4:
-                        j = 368;
+                        j = 388;
                         e = 468;
                         c = (i + 1) * 2;
                         break;
 
                     case 5:
-                        j = 468;
+                        j = 488;
                         e = 588;
                         c = (i + 1) * 2;
                         break;
 
                     case 6:
-                        j = 588;
+                        j = 608;
                         e = 728;
                         c = (i + 1) * 2;
                         break;
 
                     case 7:
-                        j = 728;
+                        j = 748;
                         e = 888;
                         c = (i + 1) * 2;
                         break;
