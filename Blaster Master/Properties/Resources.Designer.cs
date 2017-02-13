@@ -313,6 +313,16 @@ namespace BlasterMaster.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap neondrivetitle {
+            get {
+                object obj = ResourceManager.GetObject("neondrivetitle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap pickupA {
             get {
                 object obj = ResourceManager.GetObject("pickupA", resourceCulture);
