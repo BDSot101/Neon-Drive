@@ -2409,18 +2409,18 @@ namespace BlasterMaster
                 {
                     case 0:
                         j = 198; // Starting y-axis
-                        e = 188; // Ending y-axis ...
+                        e = 198; // Ending y-axis ...
                         c = 2;   // Incrementation weight
                         break;
 
                     case 1:
-                        j = 198;
-                        e = 228;
+                        j = 218;
+                        e = 238;
                         c = 4;
                         break;
 
                     case 2:
-                        j = 228;
+                        j = 248;
                         e = 288;
                         c = 6;
                         break;
