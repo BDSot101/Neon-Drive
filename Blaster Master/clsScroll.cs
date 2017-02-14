@@ -71,14 +71,12 @@ namespace BlasterMaster
 
             // Create brush and pen instances
             SolidBrush brush = new SolidBrush(Color.FromArgb(185, 76, 225));
-            Pen pen = new Pen(Color.FromArgb(142, 134, 255));
 
             // Draw lines to scroll
             Destination.FillRectangle(brush, base.getX(), base.getY(), 600, 3);
 
             // Clean up
             brush.Dispose();
-            pen.Dispose();
         }
     }
 }
