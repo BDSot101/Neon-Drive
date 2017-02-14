@@ -2420,7 +2420,7 @@ namespace BlasterMaster
                         break;
 
                     case 2:
-                        j = 268;
+                        j = 228;
                         e = 288;
                         c = 6;
                         break;
