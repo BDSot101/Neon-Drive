@@ -179,9 +179,6 @@
     <None Include="Resources\pickupB.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\pickupC.bmp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\playerA.bmp" />
   </ItemGroup>
   <ItemGroup>
@@ -201,6 +198,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\title.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pickupA2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pickupC2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pickupC.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerBack2Fut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playerBack2FutB.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neondrivetitle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\heart-69-256.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
