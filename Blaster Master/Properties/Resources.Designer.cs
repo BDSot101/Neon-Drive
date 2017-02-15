@@ -123,9 +123,9 @@ namespace BlasterMaster.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
-        internal static System.Drawing.Icon car_23_256 {
+        internal static System.Drawing.Icon car_4_256 {
             get {
-                object obj = ResourceManager.GetObject("car_23_256", resourceCulture);
+                object obj = ResourceManager.GetObject("car_4_256", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
             }
         }
