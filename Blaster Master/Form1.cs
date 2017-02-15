@@ -1896,8 +1896,9 @@ namespace BlasterMaster
             // Draw bar graph depicting num of lives remaining
             for (i = 0; i <= lives; i++)
             {
-                graphicsBuffer.FillRectangle(brush, 95 + (i * 25), 745, 20, 16);
-                graphicsBuffer.DrawRectangle(pen, 95 + (i * 25), 745, 20, 16);
+                Rectangle r = new Rectangle((i * 30), 745, 20, 16);
+                graphicsBuffer.DrawIcon(BlasterMaster.Properties.Resources.heart_69_256, r);
+                //graphicsBuffer.DrawRectangle(pen, 95 + (i * 25), 745, 20, 16);
             }
 
             // Clean up
