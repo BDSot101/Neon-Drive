@@ -1719,7 +1719,7 @@ namespace BlasterMaster
                 }
 
                 // Create class instance
-                stars[i] = new clsStars(x, y + 25, starcol);
+                stars[i] = new clsStars(x, y + 60, starcol);
             }
         }
 
@@ -2236,7 +2236,7 @@ namespace BlasterMaster
             genWorkingCounter += 1;
 
             // Render star graphic
-            graphicsBuffer.DrawImage(star, new Rectangle(27, 265, star.Width, star.Height - 50), 0, 0, star.Width, star.Height, GraphicsUnit.Pixel, ImageAtt);
+            graphicsBuffer.DrawImage(star, new Rectangle(27, 285, star.Width, star.Height - 50), 0, 0, star.Width, star.Height, GraphicsUnit.Pixel, ImageAtt);
 
             // Structured code controlled by counter status
             if (genWorkingCounter == 1)
