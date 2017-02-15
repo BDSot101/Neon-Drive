@@ -683,7 +683,6 @@ namespace BlasterMaster
             pivotY[120] = 452;
             pivotX[121] = 20;
             pivotY[121] = 449;
-
         }
     }
 }
