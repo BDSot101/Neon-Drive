@@ -414,7 +414,7 @@ namespace BlasterMaster
                         }
 
                         // Apply x & y
-                        this.setSheildX(base.getX() - 8);
+                        this.setSheildX(base.getX() + 3);
                         this.setSheildY(base.getY() - 20);
 
                         // Render sheild to graphics buffer ...
