@@ -1887,8 +1887,8 @@ namespace BlasterMaster
             string s = null;
 
             // Lives ...
-            DrawText(graphicsBuffer, "LIVES: ", 12, 742, 16, FontStyle.Bold, Brushes.Black);
-            DrawText(graphicsBuffer, "LIVES: ", 10, 740, 16, FontStyle.Bold, Brushes.White);
+            DrawText(graphicsBuffer, "LIVES: ", 12, 722, 16, FontStyle.Bold, Brushes.Black);
+            DrawText(graphicsBuffer, "LIVES: ", 10, 720, 16, FontStyle.Bold, Brushes.White);
 
             SolidBrush brush = new SolidBrush(Color.Green);
             Pen pen = new System.Drawing.Pen(Color.Black);
@@ -1896,7 +1896,7 @@ namespace BlasterMaster
             // Draw bar graph depicting num of lives remaining
             for (i = 0; i <= lives; i++)
             {
-                Rectangle r = new Rectangle((i * 30), 745, 20, 16);
+                Rectangle r = new Rectangle((i * 25), 745, 20, 16);
                 graphicsBuffer.DrawIcon(BlasterMaster.Properties.Resources.heart_69_256, r);
                 //graphicsBuffer.DrawRectangle(pen, 95 + (i * 25), 745, 20, 16);
             }
