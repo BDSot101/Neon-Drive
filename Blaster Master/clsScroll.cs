@@ -69,7 +69,7 @@ namespace BlasterMaster
             // Purpose: Method (render stars)
             //------------------------------------------------------------------------------------------------------------------
 
-            // Create brush and pen instances
+            // Create brush instance
             SolidBrush brush = new SolidBrush(Color.FromArgb(185, 76, 225));
 
             // Draw lines to scroll
