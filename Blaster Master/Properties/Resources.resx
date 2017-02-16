@@ -232,31 +232,8 @@
   <data name="playerBullet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\playerBullet.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="playerMyBullet" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        Qk22BAAAAAAAADYAAAAoAAAADAAAACAAAAABABgAAAAAAAAAAAASCwAAEgsAAAAAAAAAAAAAw8PDw8PD
-        w8PD////////V3q5V3q5////////w8PDw8PDw8PDw8PDf39/f39/w8PDV3q5V3q5V3q5V3q5w8PDf39/
-        f39/w8PDw8PDf39/f39/f39/w8PDw8PDw8PDw8PDf39/f39/f39/w8PDw8PDf39/f39/f39/f39/w8PD
-        w8PDf39/f39/f39/f39/w8PDw8PDf39/f39/f39/f39/w8PDw8PDf39/f39/f39/f39/w8PD////w8PD
-        f39/f39/f39/w8PDw8PDf39/f39/f39/w8PD////////////w8PDf39/f39/w8PDw8PDf39/f39/w8PD
-        ////////////////////w8PDf39/w8PDw8PDf39/w8PD////////////////////////FQCIw8PDw8PD
-        w8PDw8PDFQCI////////////////////////FQCIFQCIw8PDw8PDFQCIFQCI////////////////////
-        ////AABnFQCIAADyAADwFQCIAABm////////////////////////AABnAACnAADyAADwAACjAABm////
-        ////////////////////AABnAACnAADyAADwAACjAABm////////////////////////AABmAACnAADy
-        AADwAACjAABl////////////////////////AAFpAwOnAwPyAwLwAwKjAABo////////////////////
-        ////FQCIJB6kJCPuJCPsJB2gHxZs////////////////////////FQCIFQCIJBztJBztFQCIFQCI////
-        ////////////////////zEg/JBztJBztJBztJBztzEg/////////////////////////zEg/JBztJBzt
-        JBztJBztzEg/////////////////////////zEg/6KIAJBztJBzt6KIAzEg/////////////////////
-        ////zEg/6KIA6KIA6KIA6KIAzEg/////////////////////////zEg/33cd3n4q3n4p33cczEg/////
-        ////////////////////zEg/22cA3mgB3WgB22cAzEg/////////////////////////zEg/yF4A22YA
-        2mYAx14AuVcA////////////////////////zEg/slMA2GUA12QAsFIAzEg/////////////////////
-        ////zEg/nUoA1GQA02MAm0kAzEg/////////////////////////////kkQA02MA0mIAj0IA////////
-        ////////////////////////kUQA02MA0WIAjkIA////////////////////////////////k0QA1GQA
-        02MAkEIA////////////////////////////////kEMA0GEAz2AAjUIA////////////////////////
-        ////////////tFQAslQA////////////////////////////////////////eTgAeDgA////////////
-        ////////
-</value>
+  <data name="playerMyBullet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playerMyBullet.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sheildA" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\sheildA.bmp;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
