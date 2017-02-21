@@ -22,3 +22,11 @@ C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\Blaster Ma
 C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.Form1.resources
 C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.Properties.Resources.resources
 C:\Users\bdsot679\Downloads\Blaster-Master\Blaster Master\obj\Release\Blaster Master.csproj.GenerateResource.Cache
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.exe
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.pdb
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\bin\Release\BlasterMaster.exe
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\bin\Release\BlasterMaster.pdb
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\Blaster Master.csprojResolveAssemblyReference.cache
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.Form1.resources
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\BlasterMaster.Properties.Resources.resources
+C:\Users\zmmor414\Documents\GitHub\Blaster-Master\Blaster Master\obj\Release\Blaster Master.csproj.GenerateResource.Cache
