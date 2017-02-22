@@ -65,8 +65,8 @@ namespace BlasterMaster
             // Remove backgrounds
             player[0].MakeTransparent(Color.White);
             player[1].MakeTransparent(Color.White);
-            playerSheild[0].MakeTransparent(Color.Red);
-            playerSheild[1].MakeTransparent(Color.Red);
+            playerSheild[0].MakeTransparent(Color.White);
+            playerSheild[1].MakeTransparent(Color.White);
 
             for (int i = 0; i <= 4; i++)
             {
