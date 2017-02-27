@@ -60,8 +60,10 @@ namespace BlasterMaster
             invader[1, 0] = BlasterMaster.Properties.Resources.Jet;
             //invader[1, 1] = BlasterMaster.Properties.Resources.enemyA2;
             invader[1, 1] = BlasterMaster.Properties.Resources.JetB;
-            invader[2, 0] = BlasterMaster.Properties.Resources.enemyE1;
-            invader[2, 1] = BlasterMaster.Properties.Resources.enemyE2;
+            //invader[2, 0] = BlasterMaster.Properties.Resources.enemyE1;
+            invader[2, 0] = BlasterMaster.Properties.Resources.JetC;
+            //invader[2, 1] = BlasterMaster.Properties.Resources.enemyE2;
+            invader[2, 1] = BlasterMaster.Properties.Resources.JetD;
             invader[3, 0] = BlasterMaster.Properties.Resources.enemyB1;
             invader[3, 1] = BlasterMaster.Properties.Resources.enemyB2;
             invader[4, 0] = BlasterMaster.Properties.Resources.enemyC1;
