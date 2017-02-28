@@ -54,8 +54,10 @@ namespace BlasterMaster
             this.active = active;
 
             //:: Load resource image(s) & remove background and thu a sprite is born ::
-            invader[0, 0] = BlasterMaster.Properties.Resources.enemyD1;
-            invader[0, 1] = BlasterMaster.Properties.Resources.enemyD2;
+            //invader[0, 0] = BlasterMaster.Properties.Resources.enemyD1;
+            invader[0, 0] = BlasterMaster.Properties.Resources.HC;
+            //invader[0, 1] = BlasterMaster.Properties.Resources.enemyD2;
+            invader[0, 1] = BlasterMaster.Properties.Resources.HC2;
             //invader[1, 0] = BlasterMaster.Properties.Resources.enemyA1;
             invader[1, 0] = BlasterMaster.Properties.Resources.Jet;
             //invader[1, 1] = BlasterMaster.Properties.Resources.enemyA2;
