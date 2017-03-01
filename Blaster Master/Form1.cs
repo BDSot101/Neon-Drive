@@ -62,7 +62,7 @@ namespace BlasterMaster
         // Graphic refs ...
         private System.Drawing.Bitmap[] background = new System.Drawing.Bitmap[7];
         private System.Drawing.Bitmap gameTitle;
-        private System.Drawing.Bitmap star;
+        private System.Drawing.Bitmap star = BlasterMaster.Properties.Resources.box;
         private System.Drawing.Bitmap keyInstructions;
 
         private Random randNum = new Random();
@@ -2121,7 +2121,7 @@ namespace BlasterMaster
             int i = 0;
 
             // Render title
-            graphicsBuffer.DrawImage(this.gameTitle, new Rectangle(45, 85, this.gameTitle.Width, this.gameTitle.Height), 0, 0, this.gameTitle.Width, this.gameTitle.Height, GraphicsUnit.Pixel, ImageAtt);
+            graphicsBuffer.DrawImage(this.gameTitle, new Rectangle(52, 85, this.gameTitle.Width, this.gameTitle.Height), 0, 0, this.gameTitle.Width, this.gameTitle.Height, GraphicsUnit.Pixel, ImageAtt);
 
             //                                        :: F2 to start a new game ::
 
@@ -2383,9 +2383,9 @@ namespace BlasterMaster
 
             gameTitle = BlasterMaster.Properties.Resources.neondrivetitle;
             keyInstructions = BlasterMaster.Properties.Resources.keys;
-            star = BlasterMaster.Properties.Resources.starA;
+            star = BlasterMaster.Properties.Resources.box;
             gameTitle.MakeTransparent(Color.White);
-            star.MakeTransparent(Color.Black);
+            star.MakeTransparent(Color.White);
             keyInstructions.MakeTransparent(Color.Red);
 
             // Invader sprites ...
