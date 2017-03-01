@@ -70,10 +70,14 @@ namespace BlasterMaster
             invader[3, 0] = BlasterMaster.Properties.Resources.Plane;
             //invader[3, 1] = BlasterMaster.Properties.Resources.enemyB2;
             invader[3, 1] = BlasterMaster.Properties.Resources.Plane2;
-            invader[4, 0] = BlasterMaster.Properties.Resources.enemyC1;
-            invader[4, 1] = BlasterMaster.Properties.Resources.enemyC2;
-            invader[5, 0] = BlasterMaster.Properties.Resources.enemyF1;
-            invader[5, 1] = BlasterMaster.Properties.Resources.enemyF2;
+            //invader[4, 0] = BlasterMaster.Properties.Resources.enemyC1;
+            invader[4, 0] = BlasterMaster.Properties.Resources.Plane3;
+            //invader[4, 1] = BlasterMaster.Properties.Resources.enemyC2;
+            invader[4, 1] = BlasterMaster.Properties.Resources.Plane4;
+            //invader[5, 0] = BlasterMaster.Properties.Resources.enemyF1;
+            invader[5, 0] = BlasterMaster.Properties.Resources.Plane5;
+            //invader[5, 1] = BlasterMaster.Properties.Resources.enemyF2;
+            invader[5, 1] = BlasterMaster.Properties.Resources.Plane6;
 
             // Remove backgrounds ...
             int i = 0;
